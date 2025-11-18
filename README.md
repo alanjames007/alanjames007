@@ -39,4 +39,5 @@ Welcome to my GitHub profile! I'm an aspiring **Data Scientist** with a passion 
 ---
 
 Thanks for stopping by! Feel free to explore my repositories, follow my journey, or reach out for collaboration.
+![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJzN2x2ZWxmM2ZsemVzZHcwOWo1Y2ZudmNiZDM0ZWE2aXhwcHNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWO49XP9L7TxbgQVib/giphy.gif)
 

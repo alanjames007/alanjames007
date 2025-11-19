@@ -1,7 +1,7 @@
 
 
 
-# 👋 😁 Hi, I'm Alan James
+# 👋 😁 Hi, I'm Alan James.....
 
 Welcome to my GitHub profile! I'm an aspiring **Data Scientist** with a passion for turning data into actionable insights. Whether it's wrangling messy datasets, building predictive models, or visualizing trends, I love exploring the intersection of data, code, and creativity.
 
